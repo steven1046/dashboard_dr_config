@@ -1,6 +1,6 @@
 
 #
-# Configuration for staging environment
+# Configuration for staging environment - force build
 #
 version: 1.0
 app:
