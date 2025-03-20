@@ -1,7 +1,7 @@
 
 #
 # Configuration for staging environment - force build
-#
+#   sdf
 version: 1.0
 app:
   # build id to deploy. if 'version' is commented out, the application is not deployed
